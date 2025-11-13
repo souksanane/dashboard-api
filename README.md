@@ -1,2 +1,2 @@
 # dashboard-api
-Backend Java/Spring Boot du dashboard 
+Backend Java/Spring Boot for dashboard 
